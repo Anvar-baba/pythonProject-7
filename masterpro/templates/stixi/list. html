@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block title %}МИСТИКА{% endblock %}
+
+{% block content %}
+
+Выпей чашу до дна!
+
+{% endblock %}
